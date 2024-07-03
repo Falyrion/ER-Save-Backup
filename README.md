@@ -11,7 +11,7 @@ A very simple Batch Script to generate backups for Eldenring savegame files.
 # ✨ How to set up
 
 1. Download the [Batch File](ER-Savefile-Backup.bat) (Button "Download Raw File" on the top right)
-2. Save it at a location of your liking
+2. Save it at a location of your liking (best on the desktop so you can easily use it).
 3. Right click the file and select `Edit with Editor`
 4. Edit the config section described in the file
 
